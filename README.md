@@ -6,6 +6,8 @@ Welcome to our chat application built with Vite + React! This application allows
 
 Here are some screenshots of the application:
 
+![Login](src/assets/login.png)
+
 ![Image 1](src/assets/image1.png)
 
 ![Image 2](src/assets/image2.png)
